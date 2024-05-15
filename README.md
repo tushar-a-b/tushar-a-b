@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-q769.vercel.app/api?username=tushar-a-b&show_icons=true&locale=en" alt="tushar-a-b" /></p>
 
-<p><img align="center" src="https://github-readme-stats-q769.vercel.app/?user=tushar-a-b&" alt="tushar-a-b" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-a-b&" alt="tushar-a-b" /></p>
