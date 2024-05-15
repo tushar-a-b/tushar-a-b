@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats-q769-git-master-tushar-a-bs-projects.vercel.app/api/top-langs?username=tushar-a-b&show_icons=true&locale=en&layout=compact" alt="tushar-a-b" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-q769-git-master-tushar-a-bs-projects.vercel.app/api?username=tushar-a-b&show_icons=true&locale=en" alt="tushar-a-b" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-q769-git-master-tushar-a-bs-projects.vercel.app/api?username=tushar-a-b&show_icons=true&locale=en&include_all_commits=true" alt="tushar-a-b" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-a-b&" alt="tushar-a-b" /></p>
