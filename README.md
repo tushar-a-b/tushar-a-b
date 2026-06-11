@@ -5,7 +5,8 @@ Backend engineer building distributed systems and AI developer tooling.
 ## What I'm building now
 
 - **[Ship & Tell](https://github.com/tushar-a-b/ship-and-tell)**: an MCP server and Claude Code skill that mines your local AI coding sessions and turns them into tweets, threads, and articles. No external API: the coding agent's own model does the writing, and nothing leaves your machine.
-- **TIP protocol** at [theailaborg](https://github.com/theailaborg): content provenance with cryptographic signing, juror-based dispute resolution, and Merkle-anchored canonical state. That work happens on my work account, [@t-bhendarkar](https://github.com/t-bhendarkar), which is where my daily contribution graph lives.
+- **Trust Identity Protocol (TIP)** at [theailaborg](https://github.com/theailaborg): a content-provenance platform with cryptographic signing, juror-based dispute resolution, and Merkle-anchored canonical state. I work across the whole ecosystem: the [public protocol core](https://github.com/theailaborg/tip-protocol), plus the SDK, browser extension, AI classifier, protocol node, mobile web app, and WordPress plugin in private org repos. That work happens on my work account, [@t-bhendarkar](https://github.com/t-bhendarkar), which is where my daily contribution graph lives.
+- **ML and data tooling** at the same org: PII redaction, an LLM inference toolkit, research-paper extraction and metadata pipelines, and audio transcription (private repos).
 
 ## Recent shipped work
 
