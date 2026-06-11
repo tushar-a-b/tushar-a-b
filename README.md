@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tushar</h1>
 
-Backend engineer building distributed systems and AI developer tooling. Open to remote backend roles.
+Backend engineer building distributed systems and AI developer tooling.
 
 ## What I'm building now
 
