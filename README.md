@@ -20,6 +20,7 @@ Python, TypeScript, Node.js, React, Next.js, Postgres, Redis, Laravel.
 
 ## Reach me
 
+- X: [@tusshhar_r](https://x.com/tusshhar_r)
+- LinkedIn: [tushar-bhendarkar](https://www.linkedin.com/in/tushar-bhendarkar-500630392/)
 - Website: [tusharbhendarkar.com](https://tusharbhendarkar.com)
-- LinkedIn: [tushar-bhendarkar](https://www.linkedin.com/in/tushar-bhendarkar-486096151)
 - Email: tusharbhendarkar44@gmail.com
