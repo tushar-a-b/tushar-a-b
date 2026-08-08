@@ -1,26 +1,13 @@
-<h1>Hi, I'm Tushar</h1>
+# Tushar
 
-Backend engineer building distributed systems and AI developer tooling.
+Backend engineer. I build production systems: post-quantum cryptography, DAG consensus, and AI pipelines.
 
-## What I'm building now
+## What I'm building
 
-- **Trust Identity Protocol (TIP)** at [theailaborg](https://github.com/theailaborg): a content-provenance platform with cryptographic signing, juror-based dispute resolution, and Merkle-anchored canonical state. I work across the whole ecosystem: the [public protocol core](https://github.com/theailaborg/tip-protocol), plus the SDK, browser extension, AI classifier, protocol node, mobile web app, and WordPress plugin in private org repos. That work happens on my work account, [@t-bhendarkar](https://github.com/t-bhendarkar), which is where my daily contribution graph lives.
-- **ML and data tooling** at the same org: PII redaction, an LLM inference toolkit, research-paper extraction and metadata pipelines, and audio transcription (private repos).
-- **[Ship & Tell](https://github.com/tushar-a-b/ship-and-tell)**: an MCP server and Claude Code skill that mines your local AI coding sessions and turns them into tweets, threads, and articles. No external API: the coding agent's own model does the writing, and nothing leaves your machine.
+- **[Trust Identity Protocol](https://github.com/theailaborg/tip-protocol)**: post-quantum federated trust protocol. Top contributor with 990+ commits (work account [@t-bhendarkar](https://github.com/t-bhendarkar)): ML-DSA/FIPS 204 signature stack, 29x native signing optimization, DAG consensus hardening.
+- **[RankYantra](https://rankyantra.com)** and **[CurrentAffairsAI](https://currentaffairsai.com)**: AI exam-prep platform for Indian government exams. Next.js + NestJS + Prisma, with an autonomous daily content pipeline that turns the day's news into articles, quizzes, notes, and video reels end to end.
+- **[Ship & Tell](https://github.com/tushar-a-b/ship-and-tell)**: MCP server + Claude Code skill that turns real coding sessions into tweets, threads, and articles. Local-first, nothing leaves your machine.
 
-## Recent shipped work
+## Open source
 
-- [Async classifier pipeline](https://github.com/theailaborg/tip-protocol/pull/69): moved a slow classifier out of the request path so the API returns immediately and the two halves fail independently
-- [Canonical-state reset fix](https://github.com/theailaborg/tip-protocol/pull/72): made clear and build functions exact inverses so Merkle roots stay consistent across nodes
-- [Subagent transcript mining](https://github.com/tushar-a-b/ship-and-tell/commit/ca24007): found that Claude Code stores 5x more transcripts than the obvious glob shows, and built dedup-aware reading on top
-
-## Stack
-
-Python, TypeScript, Node.js, React, Next.js, Postgres, Redis, Laravel.
-
-## Reach me
-
-- X: [@tusshhar_r](https://x.com/tusshhar_r)
-- LinkedIn: [tushar-bhendarkar](https://www.linkedin.com/in/tushar-bhendarkar-500630392/)
-- Website: [tusharbhendarkar.com](https://tusharbhendarkar.com)
-- Email: tusharbhendarkar44@gmail.com
+- Merged fixes in **[Expensify/App](https://github.com/Expensify/App)**: [#46750](https://github.com/Expensify/App/pull/46750) (onboarding modal + 2FA state bug), [#51754](https://github.com/Expensify/App/pull/51754) (keyboard-navigation focus bug)
